@@ -3,7 +3,7 @@ package com.stevehandy.android;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.prgguru.android.R;
+import com.stevehandy.android.R;
 
 import android.app.Activity;
 import android.content.Intent;

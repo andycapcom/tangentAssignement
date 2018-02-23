@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.prgguru.android;
+package com.stevehandy.android;
 
 public final class R {
     public static final class attr {

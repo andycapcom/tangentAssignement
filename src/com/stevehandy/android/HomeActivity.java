@@ -5,9 +5,7 @@ import java.io.IOException;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;	
-
-import com.prgguru.android.R;
-
+import com.stevehandy.android.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.AsyncTask;
