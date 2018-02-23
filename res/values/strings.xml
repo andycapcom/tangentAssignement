@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CheckLoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_java_ws">CheckLoginActivity</string>
+    <string name="title_activity_login">HomeActivity</string>
+    <string name="http_staging_tangent_tngnt_co_api_user_me_">http://staging.tangent.tngnt.co/api/user/me/</string>
+
+</resources>
